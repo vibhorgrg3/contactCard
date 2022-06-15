@@ -1,0 +1,23 @@
+.footer-img {
+    height: 25.000001907348633px;
+    width: 25.000001907348633px;
+    left: 189px;
+    top: 779px;
+    border-radius: 0px;
+    background: #918E9B;
+    border-radius: 7px;
+
+}
+
+.box {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-div {
+    background: #161619;
+    padding: 15px 35px;
+    padding-bottom: 0px;
+
+}
